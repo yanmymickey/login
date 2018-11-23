@@ -20,7 +20,7 @@ function login() {
                     if (con1==true) {
                     	con2=confirm("送你一个九九乘法表");
                     	if (con2==true) {
-                    		window.open("http://127.0.0.1/99.php");	
+                    		window.open("./99.php");	
                     	}
                     }
                     break;
